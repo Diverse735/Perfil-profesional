@@ -4,11 +4,11 @@
 
 ## 😀 Sobre mi: 
 
-Soy estudiante de tecer año de desarrollo de software, me gusta aprender sobre la programacion, ver y analizar los avances que hay sobre las inteligencias artificiales
+Soy estudiante de tercer año de Desarrollo de Software. Me gusta aprender sobre programación, así como ver y analizar los avances de las inteligencias artificiales que todavía están en desarrollo.
 
 ## 🛠 Tecnologías que conozco y he trabajado:
 
-Python 🐍 | Java 👾 | HTML 🧩 | CSS 🌌
+Python 🐍 | Java 👾 | HTML 🧩 | CSS 🌌 | NetBeans ☕ | Workbench 📊
 
 ## 📌 Proyectos: 
 Próximamente...
